@@ -18,14 +18,6 @@ let password1 = "";
 let password2 = "";
 let passArray = [];
 
-
-
-
-
-
-
-
-
 const generatePass = () => {
    
 
